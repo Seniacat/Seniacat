@@ -1,7 +1,6 @@
-## Привет! 👋 Я Ксения, Python-разработчик и инженер-радиотехник.
+### Hi! 👋 I'm Ksenia. Python-developer and radio engineer.
 
-С 2020 года изучаю Python и другие технологии. Прошла обучение в Яндекс.Практикум по направлению Python-разработчик.
+# Programmig on Python since 2020
+# My stack: Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Yandex.Cloud, HTML, CSS, Git, Linux, Nginx.
 
-Мой стек технологий: Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Yandex.Cloud, HTML, CSS, Git, Linux, Nginx.
-
-Мой Телеграм - [@seniacat](http://t-do.ru/seniacat)
+My Telegram - [@seniacat](http://t-do.ru/seniacat)
