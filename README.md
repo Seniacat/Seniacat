@@ -4,4 +4,4 @@
 
 Мой стек технологий: Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Yandex.Cloud, HTML, CSS, Git, Linux, Nginx.
 
-Мой Телеграм - [@seniacat]((http://tme.ru/seniacat)
+Мой Телеграм - [@seniacat](http://t-do.ru/seniacat)
