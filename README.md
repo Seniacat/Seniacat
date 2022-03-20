@@ -2,7 +2,7 @@
 
 ### Yandex.Practicum graduate
 
-### Languages and Tools: Python/Django/Django RESTFramework/PostgreSQL/Docker/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest
+### Languages and Tools: Python/Django/Django RESTFramework/PostgreSQL/Docker/Yandex.Cloud/HTML5/CSS/Linux/Nginx/Unittest
 
 ### Contact me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/senia_andrevna/)
