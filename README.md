@@ -11,6 +11,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/seniacat)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seniacat)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seniacat&show_icons=true)  
