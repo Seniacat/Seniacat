@@ -12,4 +12,4 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seniacat&show_icons=true)  
+[![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seniacat)](https://github.com/Seniacat/github-readme-stats)
