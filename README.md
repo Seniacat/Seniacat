@@ -2,7 +2,7 @@
 
 ### Yandex.Practicum graduate
 
-### Languages and Tools: Python / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest
+### Languages and Tools: Python / Django / FastAPI / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Pytest
 
 ### Contact me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ksenia-sidorovich-8ba55b233/)
